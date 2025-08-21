@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Aug 17 15:18:26 CST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0198-b9e5-dc53-0000172c26d0 
+on database directory G:\Mi unidad\U\ProgramaciónClienteServidorConcurrente\Sem_14\Servidor\librarydb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@33909752 
+Loaded from file:/G:/Mi%20unidad/U/Programaci%c3%b3nClienteServidorConcurrente/Sem_14/Servidor/lib/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.7+6-LTS
+user.dir=G:\Mi unidad\U\ProgramaciónClienteServidorConcurrente\Sem_14\Servidor
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compilar todo",
+            "type": "shell",
+            "command": "javac",
+            "args": [
+                "-d",
+                "bin",
+                "-cp",
+                "lib/derby.jar",
+                "src/app/Main.java",
+                "src/app/db/DerbyManager.java",
+                "src/app/model/*.java",
+                "src/app/net/*.java",
+                "src/app/service/*.java"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": "$javac"
+        }
+    ]
+}

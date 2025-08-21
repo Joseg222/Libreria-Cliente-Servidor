@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejecutar Servidor",
+            "request": "launch",
+            "mainClass": "app.net.Servidor",
+            "classPaths": [
+                "bin",
+                "G:\Mi unidad\U\ProgramaciónClienteServidorConcurrente\Sem_14\Servidor/db-derby-10.17.1.0-bin/lib/derby.jar"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Ejecutar Cliente",
+            "request": "launch",
+            "mainClass": "app.net.Cliente",
+            "classPaths": [
+                "bin",
+                "G:\Mi unidad\U\ProgramaciónClienteServidorConcurrente\Sem_14\Servidor/db-derby-10.17.1.0-bin/lib/derby.jar"
+            ]
+        }
+    ]
+}
