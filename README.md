@@ -2,7 +2,7 @@ Proyecto Final – Programación Cliente/Servidor Concurrente
 Librería Cliente-Servidor
 
 Descripción
-Aplicación de escritorio en Java (Swing) que permite la gestión de publicaciones de una librería: libros, revistas y ebooks.
+Aplicación de escritorio en Java que permite la gestión de publicaciones de una librería: libros, revistas y ebooks.
 El sistema utiliza sockets para la comunicación cliente-servidor y mantiene los datos de las publicaciones en memoria.
 Se permite agregar publicaciones, listar todas y buscar por título mediante un interfaz gráfico moderno.
 
@@ -17,8 +17,6 @@ Sockets TCP (cliente-servidor concurrente)
 Colecciones de Java (ArrayList)
 
 ExecutorService para manejo de múltiples clientes
-
-NetBeans IDE (opcional, cualquier IDE Java)
 
 Estructura de clases principales
 
